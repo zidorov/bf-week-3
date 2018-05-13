@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "Test contract",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zidorov/bf-week3/test"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum"
+  ],
+  "author": "zidorov",
+  "license": "Apache-2.0",
+  "homepage": "https://zidorov.io",
+  "devDependencies": {
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-2": "^6.18.0",
+    "babel-preset-stage-3": "^6.17.0",
+    "babel-register": "^6.23.0",
+    "ganache-cli": "^6.0.3",
+    "truffle": "^4.0.0",
+    "zeppelin-solidity": "^1.4.0"
+  }
+}
